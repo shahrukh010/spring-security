@@ -25,6 +25,10 @@ public class UsernamePasswordAuthenticationProvider implements AuthenticationPro
 	@Autowired
 	private UserRepository repo;
 
+    /**
+    *
+    */
+
 
 	/**
 	 * Override Default authentication provider 
